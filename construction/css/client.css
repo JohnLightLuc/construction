@@ -1,0 +1,141 @@
+/* ACCUEIL */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#accueil
+{
+    background: url('../images/bg2.jpg');
+    background-position: 100vh;
+}
+
+
+
+.navbar
+{
+	background:#d82c2e!important;
+	font-size: 12px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.navbar .navbar-nav
+{
+	display: inline-block;
+	float: none;
+	vertical-align:top;
+}
+.navbar .navbar-collapse
+{
+	text-align:center;
+}
+.navbar li a
+{
+    color: #fff !important;
+    
+}
+.navbar-nav li a:hover, .navbar-nav li.active a
+{
+	color:#d82c2e!important;
+	background: #fff !important;
+}
+.navbar-default .navbar-toggle
+{
+	border-style: none;
+}
+.icon-bar
+{
+	background-color:#fff !important;
+}
+
+
+
+header h2
+{
+    float: left;
+    margin: 20px 0 0 50px;
+}
+
+#text-principal
+{
+    margin: 200px auto;
+    text-align: center;
+}
+
+#accueil h1
+{  
+ 
+  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+/* PROFILE */
+
+
+#profile
+{
+    margin: 100px auto;
+    width: 400px;
+    height: 500px; 
+
+}
+
+#profile .wrap
+{
+    padding: 50px 50px 30px 50px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    background: #fff;
+
+}
+
+
+
+
+
+/* INSCRIPTION */
+
+#inscription-form
+{
+    padding: 50px;
+    border: 1px solid green;
+    border-radius: 15px;
+    width: 500px;
+    margin: 100px auto;
+}
+
+#inscription-form .inscrit_client
+{
+    margin: 0 auto;
+}
+#inscription-form h1
+{
+    margin: 0 0 20px 0;
+
+}
+
+#inscription-form .alert
+{
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#inscription-form.commande
+{
+    background: rgba(255, 255, 255, 0.5);
+}
+
+
+#inscription-form.commande h1
+{
+    
+}
+
+
+

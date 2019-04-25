@@ -1,0 +1,44 @@
+/* INSCRIPTION */
+
+#inscription-form
+{
+    padding: 50px;
+    border: 1px solid green;
+    border-radius: 15px;
+    width: 500px;
+    margin: 100px auto;
+}
+
+#inscription-form .inscrit_client
+{
+    margin: 0 auto;
+}
+#inscription-form h1
+{
+    margin: 0 0 20px 0;
+
+}
+
+#inscription-form .alert
+{
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#accueil
+{
+    background: url('../images/constructionfourniseur.jpg');  
+}
+
+#accueil h2
+{
+    margin: 100px 0 50px 0;
+    text-shadow: 1px 2px 2px black;
+    text-shadow: 0 2px 1px #fff;
+    font-family: 'Permanent Marker', cursive;
+    color: #1A237E;
+
+}
+

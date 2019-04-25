@@ -1,0 +1,53 @@
+
+
+
+
+/* INSCRIPTION */
+
+#inscription-form
+{
+    padding: 50px;
+    border: 1px solid green;
+    border-radius: 15px;
+    width: 500px;
+    margin: 100px auto;
+}
+
+#inscription-form .inscrit_client
+{
+    margin: 0 auto;
+}
+#inscription-form h1
+{
+    margin: 0 0 20px 0;
+
+}
+
+#inscription-form .alert
+{
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+/* DELETE */
+
+#delete form
+{
+    width: 40%;
+    margin: 100px auto;
+    border: 1px  dashed black;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+
+}
+
+#delete form:hover
+{
+    width: 42%;
+    box-shadow: 3px 3px 15px black;
+}
+
